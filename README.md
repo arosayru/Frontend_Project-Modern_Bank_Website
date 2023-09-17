@@ -1,5 +1,5 @@
 <h1>HooBank(E-commerce Website)- Modern UI/UX website using React.js & Tailwind CSS</h1>
-<h2><a href="[https://hoobank-com.netlify.app/](https://hoobank-com.netlify.app/)">Live site</a></h2>
+<h2><a href="https://hoobank-com.netlify.app/">Live site</a></h2>
 
 <h2>Introduction</h2>
 <p>The combination of React.js and Tailwind CSS in "HooBank" likely results in a website with a sleek and responsive user interface. React.js handles the functionality and interactivity of the site, while Tailwind CSS streamlines the styling process. This modern stack allows for efficient development and a visually appealing user experience. "HooBank" is likely designed to provide banking or financial services to users while offering a visually pleasing and user-friendly interface.</p>
