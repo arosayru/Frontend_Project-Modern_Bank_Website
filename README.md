@@ -33,3 +33,6 @@
 <h2>Mobile Viwe</h2>
 
 ![hoobank-com netlify app_(iPhone 12 Pro)](https://github.com/arosayru/Frontend_Project-Modern_Business_Website/assets/107207994/411bc368-0012-4fe7-8dc2-59e2c15d97f9)
+
+<hr />
+<p>For the knowledge provided for free, a special thank you to Adrian Hajdin of JS Mastery</p>
